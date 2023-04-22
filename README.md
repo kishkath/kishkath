@@ -4,7 +4,7 @@
 
 🌱Currently learning VISION AI.
 
-🔭Looking to collaborate for learning as well as for work.
+🔭Looking to collaborate for learning as well as for work @kiranchw000@gmail.com
 
 
 <!--
