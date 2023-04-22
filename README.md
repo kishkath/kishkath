@@ -1,7 +1,10 @@
-### Hello Techies,👋
+### Hello 👋
 
-- Python is my best-friend & Computer vision is my favorite friend. Java, SQL are my distant relatives.
-- I can contribute if give me time for learning.
+⚡Python is my best-friend & Computer vision & its libraries are my favorite friends. Java, SQL are my distant relatives.
+
+🌱Currently learning VISION AI.
+
+
 
 <!--
 **kishkath/kishkath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
