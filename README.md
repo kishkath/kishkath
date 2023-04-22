@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello👋
+
+Python is my best-friend & Computer vision is my favorite friend. Java, SQL are my distant relatives.
 
 <!--
 **kishkath/kishkath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
