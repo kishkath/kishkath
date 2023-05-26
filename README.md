@@ -1,6 +1,6 @@
 ### Hello 👋, I wish one day I would have the workspace & knowledge as Tony-Stark.
 
-<img src="https://i.imgur.com/ZWnhY9T.png](https://github.com/kishkath/kishkath/assets/60026221/02d79157-d662-4037-af35-7628d8bb70b0" width=100% height=100%>
+<img src="https://github.com/kishkath/kishkath/assets/60026221/02d79157-d662-4037-af35-7628d8bb70b0">
 
 <img src = "https://github.com/kishkath/kishkath/assets/60026221/b5c00a84-f50d-4237-a971-dc2c71e7bd99" width = 50% height = 50%>
 
