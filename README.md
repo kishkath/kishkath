@@ -6,6 +6,8 @@
 
 ⚡Python is my best-friend & Computer vision & its libraries are my favorite friends. Java, SQL are my distant relatives.
 
+🤔 Noob in Front-end,but work in progress.
+
 🌱Currently learning VISION AI.
 
 🔭Looking to collaborate for learning as well as for work @kiranchw000@gmail.com
