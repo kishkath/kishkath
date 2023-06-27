@@ -4,9 +4,11 @@
 
 <img src = "https://github.com/kishkath/kishkath/assets/60026221/b5c00a84-f50d-4237-a971-dc2c71e7bd99" width = 25% height = 25%>
 
-⚡Python is my best-friend & Computer vision & its libraries are my favorite friends. Java, SQL are my distant relatives(Who visit only during interview period).
+⚡ WellKnown Tech Stack: (Familiar)
+    Python, DataScience libaries, Computer Vision & its libraries
 
-🤔 Noob in Front-end, C++ ,but work in progress.
+🤔 Known Tech Stack: (Just Knew)
+    NLP, SQL, Java/C. 
 
 🌱Currently learning VISION AI.
 
