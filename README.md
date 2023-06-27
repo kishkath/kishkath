@@ -5,9 +5,11 @@
 <img src = "https://github.com/kishkath/kishkath/assets/60026221/b5c00a84-f50d-4237-a971-dc2c71e7bd99" width = 25% height = 25%>
 
 ⚡ WellKnown Tech Stack: (Familiar)
+
     Python, DataScience libaries, Computer Vision & its libraries
 
 🤔 Known Tech Stack: (Just Knew)
+
     NLP, SQL, Java/C. 
 
 🌱Currently learning VISION AI.
