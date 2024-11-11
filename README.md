@@ -6,11 +6,11 @@
 
 ⚡ WellKnown Tech Stack: (Familiar)
 
-    Python, DataScience libaries, Computer Vision & its libraries
+    Python, DataScience libaries, Computer Vision & its libraries, REST API Development, Prompting, ChromaDB, SQLiteDB, Frontend (HTML, CSS, JS)
 
 🤔 Known Tech Stack: (Just Knew)
 
-    NLP, SQL, Java/C. 
+    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps
 
 🌱Currently learning VISION AI.
 
