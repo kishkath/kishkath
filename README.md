@@ -12,7 +12,10 @@
 
     NLP, SQL, Java/C, Jenkins, Streamlit, MLOps.
 
-🌱Currently learning VISION AI.
+🌱Currently learning AI.
+
+**Total Commits (2025):** {{total_commits}}
+
 
 🔭Looking to collaborate for learning as well as for work @kiranchw000@gmail.com
 
