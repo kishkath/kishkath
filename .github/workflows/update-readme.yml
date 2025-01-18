@@ -1,6 +1,11 @@
 name: Update GitHub Profile
 
 on:
+  push:
+    paths:
+      - "README.md"
+
+on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch: # Allow manual triggers
