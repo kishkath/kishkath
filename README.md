@@ -4,13 +4,13 @@
 
 <img src = "https://github.com/kishkath/kishkath/assets/60026221/b5c00a84-f50d-4237-a971-dc2c71e7bd99" width = 25% height = 25%>
 
-⚡ **WellKnown Tech Stack**: (Familiar)
+⚡ **WellKnown Tech Stack**:
 
     Python, REST API Development, PyTorch, Deep Learning, Prompting, ChromaDB, SQLiteDB, Frontend (HTML, CSS, JS)
 
 🤔 **Known Tech Stack**:
 
-    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps.
+    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps, Hugging spaces
 
 🌱Currently learning AI.
 
