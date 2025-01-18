@@ -8,7 +8,7 @@
 
     Python, REST API Development, PyTorch, Deep Learning, Prompting, ChromaDB, SQLiteDB, Frontend (HTML, CSS, JS)
 
-🤔 **Known Tech Stack**: (Just Knew)
+🤔 **Known Tech Stack**:
 
     NLP, SQL, Java/C, Jenkins, Streamlit, MLOps.
 
