@@ -10,7 +10,7 @@
 
 🤔 **Known Tech Stack**: (Just Knew)
 
-    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps
+    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps.
 
 🌱Currently learning VISION AI.
 
