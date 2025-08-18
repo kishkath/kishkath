@@ -26,7 +26,14 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 ---
 
 ### 📈 **Contribution Graph**
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishkath&theme=react-dark)](https://github.com/your-username)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishkath&theme=react-dark)](https://github.com/kishkath)
+
+### 📅 Contribution Summary
+
+<!--START_SECTION:commits_table-->
+(Updating...)
+<!--END_SECTION:commits_table-->
+
 
 ---
 
