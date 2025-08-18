@@ -14,10 +14,10 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kishkath&style=flat-square)
-![Commits Badge](https://img.shields.io/badge/Total%20Commits-{{your_total_commits}}-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=kishkath&style=flat-square)  
+![Total Commits](https://img.shields.io/badge/Total%20Commits-Updating-blue)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishkath&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
@@ -29,11 +29,9 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishkath&theme=react-dark)](https://github.com/kishkath)
 
 ### 📅 Contribution Summary
-
 <!--START_SECTION:commits_table-->
 (Updating...)
 <!--END_SECTION:commits_table-->
-
 
 ---
 
@@ -45,7 +43,7 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 ---
 
 ### 💬 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://www.linkedin.com/in/sai-kiran-798943197/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Kiran-blue?logo=linkedin)](https://www.linkedin.com/in/sai-kiran-798943197/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://workhub.onrender.com)  
 
 ---
