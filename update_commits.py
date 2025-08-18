@@ -31,36 +31,32 @@ response = requests.post(GRAPHQL_URL, json={"query": QUERY, "variables": {"login
 data = response.json()
 
 contributions = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
-monthly_commits = defaultdict(int)
+six_month_commits = defaultdict(int)
 total_commits = 0
 
 for week in contributions:
     for day in week["contributionDays"]:
         date = datetime.strptime(day["date"], "%Y-%m-%d")
-        month_key = date.strftime("%Y-%m")
+        year = date.year
+        month = date.month
+        period = "Jan–Jun" if month <= 6 else "Jul–Dec"
+        key = (year, period)
         count = day["contributionCount"]
-        monthly_commits[month_key] += count
+        six_month_commits[key] += count
         total_commits += count
 
-quarters = {"01": "Q1", "02": "Q1", "03": "Q1",
-            "04": "Q2", "05": "Q2", "06": "Q2",
-            "07": "Q3", "08": "Q3", "09": "Q3",
-            "10": "Q4", "11": "Q4", "12": "Q4"}
+# Sort by year (desc), then period (Jul–Dec first)
+sorted_keys = sorted(six_month_commits.keys(), key=lambda x: (x[0], x[1] == "Jan–Jun"), reverse=True)
 
-# Build commit table
-table = "| Year | Quarter | Month | Commits |\n|------|---------|--------|---------|\n"
-for year_month in sorted(monthly_commits.keys(), reverse=True):
-    year, month = year_month.split("-")
-    q = quarters[month]
-    month_name = datetime.strptime(month, "%m").strftime("%B")
-    commits = monthly_commits[year_month]
-    table += f"| {year} | {q} | {month_name} | {commits} |\n"
+# Build table
+table = "| Year | Period    | Commits |\n|------|-----------|---------|\n"
+for year, period in sorted_keys:
+    table += f"| {year} | {period} | {six_month_commits[(year, period)]} |\n"
 
 # Update README
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
-# Update commits table
 start_table = "<!--START_SECTION:commits_table-->"
 end_table = "<!--END_SECTION:commits_table-->"
 new_readme = readme.split(start_table)[0] + start_table + "\n" + table + end_table + readme.split(end_table)[1]
