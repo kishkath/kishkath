@@ -5,11 +5,11 @@
 
 ⚡ **WellKnown Tech Stack**:
 
-    Python, Flask, PyTorch, Deep Learning, Prompting, ChromaDB, SQLiteDB, Frontend (HTML, CSS, JS)
+    Python, Flask, PyTorch, Deep Learning, Prompting, SQLiteDB, GenAI work-around
 
 🤔 **Known Tech Stack**:
 
-    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps, Hugging spaces
+    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps, Hugging spaces, Prompting
 
 🌱Currently learning AI.
 
