@@ -1,33 +1,44 @@
-### Hello 👋, I wish one day I would have the work space as Tony-Stark.
+# 👋 Hi, I'm [Your Name]  
 
-<img src="https://github.com/kishkath/kishkath/assets/60026221/02d79157-d662-4037-af35-7628d8bb70b0" >
+**AI Enthusiast | Python & Deep Learning Learner | Always Curious**  
 
+I’m passionate about **AI Engineering**, building **practical applications**, and exploring **new trends in AI** like prompting and GenAI tools. I love creating **mini POCs**, experimenting with models, and automating workflows with Python.
 
-⚡ **WellKnown Tech Stack**:
+---
 
-    Python, Flask, PyTorch, Deep Learning, Prompting, SQLiteDB, GenAI work-around
+### 🚀 **Skills**
+- **Languages:** Python  
+- **AI/ML:** Deep Learning (PyTorch, TensorFlow), Computer Vision  
+- **Tools:** OpenCV, FastAPI, Pandas, NumPy  
+- **Other:** Databases, Web Frameworks, Prompt Engineering  
 
-🤔 **Known Tech Stack**:
+---
 
-    NLP, SQL, Java/C, Jenkins, Streamlit, MLOps, Hugging spaces, Prompting
+### 📊 **GitHub Stats**
 
-🌱Currently learning AI.
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+![Commits Badge](https://img.shields.io/badge/Total%20Commits-{{your_total_commits}}-blue)
 
-**Total Commits (2025):** {{total_commits}}
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-🔭Looking to collaborate for learning as well as for work @kiranchw000@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-<!--
-**kishkath/kishkath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 **Contribution Graph**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/your-username)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 **What I’m up to**
+- Building **AI-powered mini tools**  
+- Exploring **prompt engineering & GenAI**  
+- Learning **full-stack for AI apps**  
+
+---
+
+### 💬 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio-link.com)  
+
+---
