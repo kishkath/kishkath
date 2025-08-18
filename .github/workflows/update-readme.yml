@@ -2,8 +2,8 @@ name: Update Commit Stats
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Runs every Sunday at midnight
-  workflow_dispatch: # Manual trigger
+    - cron: '0 0 * * 0'  # every Sunday at midnight
+  workflow_dispatch:
 
 jobs:
   update-commits:
@@ -23,7 +23,7 @@ jobs:
       - name: Run commit update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: your-username
+          USERNAME: kishkath
         run: python update_commits.py
 
       - name: Commit and push changes
@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "kishkath"
           git config --global user.email "kiranchw000@gmail.com"
           git add README.md
-          git commit -m "Update commit summary"
+          git commit -m "Update commit summary and badge"
           git push
