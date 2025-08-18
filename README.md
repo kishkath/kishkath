@@ -30,7 +30,7 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 
 ### 📅 Contribution Summary
 <!--START_SECTION:commits_table-->
-(Updating...)
+0
 <!--END_SECTION:commits_table-->
 
 ---
