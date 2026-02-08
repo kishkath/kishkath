@@ -32,8 +32,8 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 <!--START_SECTION:commits_table-->
 | Year | Period    | Commits |
 |------|-----------|---------|
-| 2026 | Jan–Jun | 47 |
-| 2025 | Jan–Jun | 201 |
+| 2026 | Jan–Jun | 48 |
+| 2025 | Jan–Jun | 200 |
 | 2025 | Jul–Dec | 283 |
 <!--END_SECTION:commits_table-->
 
