@@ -17,7 +17,7 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 ## 📊 **GitHub Stats**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kishkath&style=flat-square)  
-![Total Commits](https://img.shields.io/badge/Total%20Commits-393-blue)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-364-blue)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishkath&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
@@ -33,8 +33,8 @@ I’m passionate about **AI Engineering**, building **practical applications**, 
 | Year | Period    | Commits |
 |------|-----------|---------|
 | 2026 | Jan–Jun | 260 |
-| 2026 | Jul–Dec | 30 |
-| 2025 | Jul–Dec | 103 |
+| 2026 | Jul–Dec | 31 |
+| 2025 | Jul–Dec | 73 |
 <!--END_SECTION:commits_table-->
 
 ---
